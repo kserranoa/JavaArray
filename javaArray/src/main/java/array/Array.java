@@ -9,6 +9,9 @@ public class Array {
         // Creando array con numeros
         int[] numeros = new int[10];
         
+        // Creando array con String 
+        String[] nombres = new String[5];
+        
     }
 
 }
